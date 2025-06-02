@@ -10,12 +10,7 @@ export default function Footer() {
           <div>
             <h3 className="text-white text-lg font-semibold mb-4">İletişim</h3>
             <div className="space-y-3">
-              <p className="flex items-center">
-                <FaPhone className="mr-2" />
-                <a href="tel:+905425246925" className="hover:text-white">
-                  +90 542 524 69 25
-                </a>
-              </p>
+              
               <p className="flex items-center">
                 <FaWhatsapp className="mr-2" />
                 <a href="https://wa.me/905415143903" className="hover:text-white">
