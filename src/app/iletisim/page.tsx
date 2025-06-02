@@ -6,7 +6,7 @@ const contactInfo = [
   {
     icon: FaPhone,
     title: 'Telefon',
-    content: '+90 542 524 69 25',
+    content: '+90 541 514 39 03',
     href: 'tel:+905425246925',
   },
   {
